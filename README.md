@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CSC 212 Assignment 3: Implementing and Using Binary Trees
 Guidelines
 - This is an individual assignment.
@@ -100,3 +101,6 @@ any communication media including but not limited to Facebook, Twitter or WhatsA
 will result in disciplinary measures against any involved parties.
 5. The submitted software will be evaluated automatically using Web-Cat.
 6. All submitted code will be automatically checked for similarity, and if plagiarism is confirmed penalties will apply.
+=======
+
+>>>>>>> d8a0c2771c08c6c26ab7bbc46df62a3a0af27de9
