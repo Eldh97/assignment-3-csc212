@@ -103,4 +103,3 @@ will result in disciplinary measures against any involved parties.
 6. All submitted code will be automatically checked for similarity, and if plagiarism is confirmed penalties will apply.
 =======
 
->>>>>>> d8a0c2771c08c6c26ab7bbc46df62a3a0af27de9
