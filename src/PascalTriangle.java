@@ -34,7 +34,6 @@ public static void main(String[]args) {
 	
 	
 	// Build the part of the Pascal triangle of depth d.
-	// Do not change the code of this method.
 	public static BT<Integer> buildPascalTri(int d) {
 		
 		BT<Integer> pt = new LinkedBT<Integer>();			
